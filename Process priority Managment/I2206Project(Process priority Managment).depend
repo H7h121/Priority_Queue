@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1594539188 source:i:\info\i2206\i2206project\i2206project(process priority managment)\arrayimplementation.c
+	<stdio.h>
+	<stdlib.h>
+	"process.h"
+
+1594539188 i:\info\i2206\i2206project\i2206project(process priority managment)\process.h
+	<stdio.h>
+	<stdlib.h>
+
+1596112357 source:i:\info\i2206\i2206project\i2206project(process priority managment)\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1596109986 source:i:\info\i2206\i2206project\i2206project(process priority managment)\hashimp.c
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+
+1596113569 source:i:\info\i2206\i2206project\i2206project(process priority managment)\arrayimp.c
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1597316032 source:c:\users\win10\downloads\i2206project\i2206project(process priority managment)\hashimp.c
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+
+1597315930 source:c:\users\win10\downloads\i2206project\i2206project(process priority managment)\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1597315879 source:c:\users\win10\downloads\i2206project\i2206project(process priority managment)\arrayimp.c
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1597316068 source:c:\users\win10\documents\project\i2206project(process priority managment)\arrayimp.c
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1597316032 source:c:\users\win10\documents\project\i2206project(process priority managment)\hashimp.c
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+
+1597316068 source:c:\users\win10\documents\project\i2206project(process priority managment)\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
